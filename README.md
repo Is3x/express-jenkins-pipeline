@@ -1,4 +1,4 @@
-# ls-lab4
+# express-jenkins-pipeline
 
 A deliberately minimal Express service, used as the build target for a Jenkins
 CI/CD pipeline exercise. University coursework, 2022.
